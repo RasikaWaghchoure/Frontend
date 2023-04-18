@@ -1,0 +1,38 @@
+#h1
+{
+    font-size:25px;
+    font-family: cursive;
+    color:deeppink;
+    
+}
+/*#p
+{
+    font-size:25px;
+    font-family: cursive;
+    color:deeppink;
+}*/
+#h2
+{
+    border: goldenrod;
+    width: 40;
+    height: 40;
+}
+#background
+{
+    color: linear-gradient(to bottom,rgb(51, 107, 172),rgb(27, 131, 105),pink);
+}
+p::first-letter
+{
+    color: indianred;
+    font-size: 20px;
+}
+input:hover
+{
+    color:blue;
+    font-size: 40px;
+    background-color: lightgreen;
+}
+/*label::first-letter
+{
+    color: lightgreen;
+}*/
